@@ -1,2 +1,14 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+h1 {
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 36px;
+}
+
+.jumbotron {
+  text-align: center;
+  color: red;
+}
